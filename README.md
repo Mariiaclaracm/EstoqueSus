@@ -1,6 +1,28 @@
 # EstoqueSus
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+Este projeto de front-end é voltado para a administração do estoque de medicamentos em unidades de saúde do SUS. A plataforma possibilita que os colaboradores das unidades de saúde acompanhem a quantidade de cada medicamento disponível, realizem o registro de retiradas, atualizem o estoque com a entrada de novos produtos e façam pedidos à central quando houver escassez de medicamentos.
+
+Projeto gerado com : [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+
+#Funcionalidades:
+
+- Visualizar Estoque: Ver a quantidade atual de cada medicamento armazenado no posto de saúde.
+- Registrar Retirada: Registrar a retirada de medicamentos do estoque.
+- Atualizar Estoque: Atualizar o estoque com a chegada de novos medicamentos.
+- Solicitar Medicamentos: Enviar solicitações à central em caso de falta de medicamentos.
+
+
+#Tecnologias utilizadas:
+- **HTML:** Para a estrutura do site.
+- **CSS:** Para estilização e layout responsivo.
+- **TypeScript:** Para manipulação do DOM e interação com o usuário.
+- **Angular:** Para uma interface dinâmica e responsiva.
+
+
+--------------------------------------------------------------
+
+
+
 
 ## Development server
 
